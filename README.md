@@ -1,1 +1,3 @@
-# akhsan-ibrahim_kasirs-app
+# Kasirs App
+oleh : 
+*Akhsan Ibrahim - BE2777445*
